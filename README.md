@@ -1,5 +1,5 @@
 # Computer_Vision
-# Day-1 
+## Day-1 
 EfficientDet is a family of object detection models designed to provide an optimal trade-off between accuracy and computational efficiency. It was introduced by Mingxing Tan and Quoc V. Le in their 2019 paper titled "EfficientDet: Scalable and Efficient Object Detection." The development of EfficientDet is part of a broader trend in deep learning and computer vision towards creating models that can run on diverse hardware, from high-end GPUs to mobile devices, without compromising performance significantly.
 
 ### Key Features of EfficientDet
@@ -22,8 +22,3 @@ EfficientDet can be applied in various domains requiring object detection, such 
 * Retail, for inventory management through product detection.
 * Healthcare, for detecting abnormalities in medical imaging.
 
-### Implementation and Tools
-
-EfficientDet has been implemented in popular deep learning frameworks such as TensorFlow and PyTorch. These implementations are available in public repositories, facilitating their use in research and application development. Additionally, the model's efficiency makes it suitable for deployment in edge computing scenarios, where computational resources are limited.
-
-In your journey as a data scientist focusing on Generative AI, Deep Learning, and AI, exploring models like EfficientDet can provide valuable insights into the balance between model complexity, computational efficiency, and performance. This understanding can be crucial when developing or choosing models for real-world AI applications, especially those requiring real-time processing on limited hardware resources.
