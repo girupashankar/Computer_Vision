@@ -1,5 +1,5 @@
-# Computer_Vision
-## Day-1 
+# Deep Learning - Computer Vision
+## Day-1 EfficientDet 
 EfficientDet is a family of object detection models designed to provide an optimal trade-off between accuracy and computational efficiency. It was introduced by Mingxing Tan and Quoc V. Le in their 2019 paper titled "EfficientDet: Scalable and Efficient Object Detection." The development of EfficientDet is part of a broader trend in deep learning and computer vision towards creating models that can run on diverse hardware, from high-end GPUs to mobile devices, without compromising performance significantly.
 
 ### Key Features of EfficientDet
